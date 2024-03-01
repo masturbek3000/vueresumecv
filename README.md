@@ -1,5 +1,10 @@
 # vuecvproject
 
+## Link to project
+```
+https://vueresume.netlify.app
+```
+
 ## Project setup
 ```
 npm install
